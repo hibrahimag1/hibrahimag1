@@ -4,7 +4,6 @@ My name is Harun Ibrahimagić. I'm a computer science student at Elektrotehničk
 - Python
 - C/C++
 - Web-scraping
-- Desktop app building
 - Data collection and manipulation
 - Fluent English and understanding of German
 ---
