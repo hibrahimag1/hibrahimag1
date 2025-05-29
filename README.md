@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 My name is Harun Ibrahimagić. I'm a computer science student at Elektrotehnički fakultet in Sarajevo, BiH. I'm also a passionate programmer and problem solver. A few of my skills include
+- Embedded Software Development
 - Python
 - C/C++
 - Web-scraping
