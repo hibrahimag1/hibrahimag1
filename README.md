@@ -8,9 +8,7 @@ My name is Harun Ibrahimagić. I'm a computer science student at Elektrotehničk
 - Data collection and manipulation
 - Fluent English and understanding of German
 ---
-- 👯 I’m looking to collaborate on interesting projects, so if you need a helping hand feel free to reach out!
-- 📫 How to reach me: you can send me a mail at harunibrahimagic004@gmail.com
-- 💬 I'm also interested in any job or intern opportunities available!
+- 📫 How to reach me: you can send me an email at harunibrahimagic004@gmail.com
 <!--
 **hibrahimag1/hibrahimag1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
